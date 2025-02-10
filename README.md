@@ -1,6 +1,4 @@
-![Gemini_Generated_Image_tkw5mutkw5mutkw5](https://github.com/user-attachments/assets/6dd12111-df1e-4cfa-b972-ecad7d275067)
-
-# Northern Light Airlines Loyalty Program Analysis
+![Gemini_Generated_Image_tkw5mutkw5mutkw5](https://github.com/user-attachments/assets/6dd12111-df1e-4cfa-b972-ecad7d275067) # Northern Light Airlines Loyalty Program Analysis
 
 ## Project Overview
 This project focuses on analyzing the impact of Northern Light Airlines' customer loyalty program, particularly evaluating the 2018 Promotion compared to subsequent years. Utilizing Power BI, we explore customer behavior, enrollment trends, and flight booking patterns to assess the program's effectiveness and identify areas for improvement.
