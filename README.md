@@ -1,3 +1,5 @@
+![Gemini_Generated_Image_tkw5mutkw5mutkw5](https://github.com/user-attachments/assets/6dd12111-df1e-4cfa-b972-ecad7d275067)
+
 # Northern Light Airlines Loyalty Program Analysis
 
 ## Project Overview
