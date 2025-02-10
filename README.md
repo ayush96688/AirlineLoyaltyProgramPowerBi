@@ -68,6 +68,9 @@ This project focuses on analyzing the impact of Northern Light Airlines' custome
 - **Map Visualization**: Highlighting flight bookings by province.
 - **Slicers**: Filtering results by enrollment type (2018 Promotion vs. Standard).
 
+  ![image](https://github.com/user-attachments/assets/f3b1a895-620d-4a1e-8e38-06d2efbea51d)
+
+
 ## Insights from Analysis
 1. **Membership Growth**
    - Out of 16,740 loyalty members, 971 joined through the 2018 promotion, representing approximately 6% new signups.
