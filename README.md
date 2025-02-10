@@ -68,8 +68,15 @@ This project focuses on analyzing the impact of Northern Light Airlines' custome
 - **Map Visualization**: Highlighting flight bookings by province.
 - **Slicers**: Filtering results by enrollment type (2018 Promotion vs. Standard).
 
-  ![image](https://github.com/user-attachments/assets/f3b1a895-620d-4a1e-8e38-06d2efbea51d)
+![1](https://github.com/user-attachments/assets/915621ce-2932-488e-911c-07b96a960f00)
 
+![2](https://github.com/user-attachments/assets/4ac861fe-6615-41c9-99aa-a092f153940a)
+
+![3](https://github.com/user-attachments/assets/bed084c7-29cc-4308-a033-7ff01c1d99c1)
+
+![4](https://github.com/user-attachments/assets/a14b6051-7c2b-41d7-a7e4-05f9d32a37d9)
+
+![5](https://github.com/user-attachments/assets/add07cbf-df2d-4ea5-ae7e-827e97a4444b)
 
 ## Insights from Analysis
 1. **Membership Growth**
