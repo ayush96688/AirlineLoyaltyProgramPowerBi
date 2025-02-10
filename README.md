@@ -1,4 +1,4 @@
-### ✨ Northern Light Airlines Loyalty Program Analysis ✨
+# ✨ Northern Light Airlines Loyalty Program Analysis ✨
 
 ## Project Overview
 This project focuses on analyzing the impact of Northern Light Airlines' customer loyalty program, particularly evaluating the 2018 Promotion compared to subsequent years. Utilizing Power BI, we explore customer behavior, enrollment trends, and flight booking patterns to assess the program's effectiveness and identify areas for improvement.
