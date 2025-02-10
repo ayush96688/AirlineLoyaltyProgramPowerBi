@@ -103,17 +103,11 @@ The 2018 promotions significantly impacted the loyalty program, driving enrollme
 ## Repository Structure
 ```
 /airline-loyalty-program
-|-- /images
-|   |-- dashboard_1.png
-|   |-- dashboard_2.png
-|   |-- dashboard_3.png
-|   |-- dashboard_4.png
-|   |-- dashboard_5.png
-|   |-- insights.png
-|   |-- data_model.png
-|-- /data
-|   |-- [CSV files used in the project]
-|-- Airline_Loyalty_Program.pbix
+|-- Airline Loyalty Data Dictionary.csv
+|-- Airline Loyalty Program.pbix
+|-- Calendar.csv
+|-- Customer Flight Activity.csv
+|-- Customer Loyalty History.csv
 |-- README.md
 ```
 
